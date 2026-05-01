@@ -18,29 +18,29 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> <!--- Add your name---> </p>
-    <p><strong>Email ID:</strong> <!--- Add your mail id ---> </p>
-    <p><strong>College Name:</strong> <!--- Add your college name---> </p>
-    <p><strong>Branch/Specialization :</strong> <!--- Add your branch name---> </p>
-    <p><strong>College ID:</strong> <!--- Add your college ID---> </p>
+    <p><strong>Name:</strong> HARI PRASATH M </p>
+    <p><strong>Email ID:</strong> hariprasath10072002@gmail.com </p>
+    <p><strong>College Name:</strong> PSNA COLLEGE OF ENGINEERING AND TECHNOLOGY DINDIGUL TAMILNADU </p>
+    <p><strong>Branch/Specialization :</strong> BE COMPUTER SCIENCE AND ENGINEERING </p>
+    <p><strong>College ID:</strong> 92132213055 </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> <!--- Add your course name---> </p>
-    <p><strong>Instructor Name:</strong> <!--- Add your instructor name---> </p>
+    <p><strong>Course Opted:</strong>JAVA PROGRAMMING </p>
+    <p><strong>Instructor Name:</strong> PROF MRS.RADHAKUMARI </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> <!--- Durations in months---> </p>
+    <p><strong>Duration:</strong> JULY 2025 - MAY 2026 </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> <!–– Add trainer name ––></p>
+<p><strong>Trainer Name:</strong> MRS.TAGADI CHANDHANA AND MR.PRUTHVI RAJA G20 JAVA BATCH</p>
 <p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
 <p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
 
@@ -63,54 +63,31 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
+I had a valuable experience acquiring skills during my internship. My two mentors consistently guided me in the right direction, helping me build a strong foundation for career growth. I am truly grateful for their humble approach and effective teaching methodologies. Their support enabled me to understand and apply concepts in a more structured and practical manner. I was able to improve my technical and problem-solving skills significantly. This experience also enhanced my confidence, communication, and professional mindset. Overall, the internship played a crucial role in shaping my career development and preparing me for future opportunities.
 
 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project1">Project 1:</a></strong> EXPENSES TRACKING SYSTEM</p>
 
-<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
 
-<p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
 
-<p><em>(You can add more projects as needed)</em></p>
+
 
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: <!-- Add Project Title --></h3>
+<h3 id="project1">Project 1: EXPENSES TRACKING SYSTEM</h3>
 <p>
-  This project involved designing and developing a basic functional module using the core concepts taught in the course.
-  It focused on understanding requirements, creating structured code, and implementing key features.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
-
-<!-- Project 2 -->
-<h3 id="project2">Project 2: <!-- Add Project Title --></h3>
-<p>
-  This project expanded on intermediate concepts and required integrating multiple components to build a more complete solution.
-  It enhanced understanding of UI/UX design, modular coding, and testing.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
-
-<!-- Project 3 -->
-<h3 id="project3">Project 3: <!-- Add Project Title --></h3>
-<p>
-  The final project showcased the practical application of all concepts learned throughout the course.  
-  It required planning, building, optimizing, and documenting a complete real-world project.
+ An expense tracking system records and categorizes daily income and expenses to help users monitor their financial activities efficiently. It provides insights through reports and summaries, enabling better budgeting and financial decision-making.
 </p>
 <p>
   <a href="https://github.com/hariprasath211510/SPRING-BOOT-INTERNSHIP-PROJECT/blob/main/SURE%20Trust%20project%20document-1.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
+
+
+
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
@@ -124,20 +101,16 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 
 ## **Learnings from LST and SST**
 
-<!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
----
+Life skills and soft skills training have greatly helped me understand how to behave in a professional company environment. In each session, we learned something new and valuable from various speakers. The session conducted by Radha Ma’am was highly effective and helped improve our focus on learning new things. Soft skills training also enhanced our emotional intelligence in the workplace. Overall, these skills consistently support career growth and help develop a disciplined and professional personality.
 
 ## **Community Services**
 
 <!-- add descreption in your own words -->
 
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
+During my internship period, I participated in multiple community-oriented activities .....Planting trees contributes to environmental sustainability and supports long-term ecological balance. It reflects a proactive approach toward building a greener and more responsible future. Serving senior citizens demonstrates strong social responsibility and ethical values. It involves providing care, respect, and meaningful support to enhance their well-being. Together, these activities promote community development and encourage a culture of compassion and responsibility.
 
 ### **Activities Involved**
-<!-- add the location where you given -->
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
+
   
  <!-- add the location where you have panted -->
 - **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
@@ -145,11 +118,11 @@ During my internship period, I participated in multiple community-oriented activ
   <!-- add the location where you helped -->
 - **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
 
-<!-- you can write impacts according to your experience in your words-->
+I am very grateful to have been part of an environmental initiative that promotes peace and eco-friendly practices. I am truly happy to contribute and be involved in creating a sustainable and responsible environment. I sincerely thank the organizers for their trust and for giving me the opportunity to be part of this meaningful effort.
 
 ### **Impact / Contribution**
 
-- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
+ <!-- add the location where you given -->
 - Actively participated in promoting a greener and cleaner surroundings.
 - Offered personal assistance to elder citizens, strengthening community bonds.
 - Improved skills in communication, coordination, and social responsibility.
@@ -159,7 +132,7 @@ During my internship period, I participated in multiple community-oriented activ
 <!-- add your photos below -->
 <!-- change url below with your image urls (inside  src='')-->
 
-- These are just placeholder (sample) images <!-- remove this line -->
+
 
 <div align="center">
 <img src="https://github.com/hariprasath211510/SPRING-BOOT-INTERNSHIP-PROJECT/blob/main/assets/HARI%20PRASATH%20M%20G20%20JAVA%20(2).png" alt="Community Service Photo 1" width="30%">
